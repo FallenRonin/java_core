@@ -1,4 +1,4 @@
-package main.java.ru.mentee.power;
+package ru.mentee.power;
 
 public class HelloGit {
     public static void main(String[] args) {
