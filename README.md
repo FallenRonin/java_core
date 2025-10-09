@@ -14,3 +14,5 @@
     - `ru.mentee.power.variables.StringOperations` - примеры явных и неявных конвертаций данных в строку и обратно
     - `ru.mentee.power.variables.ConstantsAndScope` - пример объявления констант, их зоны видимости и обращения к ним
     - `ru.mentee.power.variables.TemperatureConverter` - пример конвертации температур из разных систем
+- Пакет `ru.mentee.power.datatypes` содержит: 
+    - `ru.mentee.power.datatypes.DataTypesExample` - пример объявления различных примитивных и ссылочных значений и дальнейшей работы с их преобразованием
