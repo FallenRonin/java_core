@@ -1,4 +1,4 @@
-package ru.mentee.power;
+package ru.mentee.power.variables;
 
 public class Variables {
     public static void main(String[] args) {
