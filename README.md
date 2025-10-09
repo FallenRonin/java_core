@@ -8,6 +8,7 @@
 - Пакет `ru.mentee.power` содержит:
     - `ru.mentee.power.HelloWorld.java` - программа для вывода приветствия
     - `ru.mentee.power.HelloGit.java` - простой пример работы с Git
+- Пакет `ru.mentee.power.variables` содержит:
     - `ru.mentee.power.variables.PersonalCard` - пример объявления и вывода переменных разного типа
     - `ru.mentee.power.variables.TypeCalculator` - примеры конвертации числовых типов
     - `ru.mentee.power.variables.StringOperations` - примеры явных и неявных конвертаций данных в строку и обратно
