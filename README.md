@@ -8,6 +8,10 @@
 - Пакет `ru.mentee.power` содержит:
     - `ru.mentee.power.HelloWorld.java` - программа для вывода приветствия
     - `ru.mentee.power.HelloGit.java` - простой пример работы с Git
+    - `ru.mentee.power.DataTypeBoundaries.java` - демонстрация границ примитивных типов в java
+    - `ru.mentee.power.DataTypesInAction.java` - демонстрация явного и неявного преобразования примитивных типов в java
+    - `ru.mentee.power.SmartCalculator.java` - пример калькулятора, который работает с разными типами и приводит к нужным во избежание потери данных
+    - `ru.mentee.power.TypePuzzle.java` - примеры неявного поведения примитивных типов с объяснениями
 - Пакет `ru.mentee.power.variables` содержит:
     - `ru.mentee.power.variables.PersonalCard` - пример объявления и вывода переменных разного типа
     - `ru.mentee.power.variables.TypeCalculator` - примеры конвертации числовых типов
