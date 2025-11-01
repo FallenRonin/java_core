@@ -1,4 +1,4 @@
-package ru.mentee.power;
+package ru.mentee.power.conditions;
 
 import java.util.Scanner;
 
